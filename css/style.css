@@ -1,0 +1,139 @@
+.contenedor1{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgb(147, 59, 156);
+}
+
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.para1{
+    background: rgb(147, 59, 156);
+}
+
+.header1{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    border:5px solid #fff;
+}
+
+.nav1{
+    margin:15px;
+    margin-top: 35px;
+    background: #fff;
+    border:5px solid #000000;
+}
+
+.section1{
+    margin: 15px;
+    margin-top: 35px;
+    background: rgb(206, 72, 72);
+    width: 800px;
+    height: 530px;
+    float: left;
+    display: block;
+    border:5px solid #fff;
+}
+
+.header2{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    width: 755px;
+    height: 50px;
+    border:5px solid #fff;
+}
+
+.article1{
+    margin: 15px;
+    margin-top: 30px;
+    background: rgb(74, 195, 232);
+    height: 350px;
+    border:5px solid #fff;
+}
+
+.header3{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    width: 720px;
+    height: 50px;
+    border:5px solid #fff;
+}
+
+.para2{
+    margin: 15px;
+    margin-top: -12px;
+    background: rgb(230, 137, 79);
+    width: 720px;
+    height: 50px;
+    border:5px solid #fff;
+}
+
+.para3{
+    margin: 15px;
+    margin-top: -5px;
+    background: rgb(230, 137, 79);
+    width: 400px;
+    height: 50px;
+    float: left;
+    border:5px solid #fff;
+}
+
+.aside1{
+    margin: 15px;
+    margin-top: -5px;
+    background: rgb(255, 255, 255);
+    width: 280px;
+    height: 50px;
+    float: right;
+    border:5px solid #000000;
+    text-align: center;
+}
+
+.footer1{
+    margin: 15px;
+    margin-top: 90px;
+    background: rgb(255, 255, 255);
+    width: 720px;
+    height: 50px;
+    border:5px solid #000000;
+    text-align: center;
+}
+
+.section2{
+    margin: 15px;
+    margin-top: 35px;
+    background: rgb(206, 72, 72);
+    width: 620px;
+    height: 530px;
+    float: right;
+    border:5px solid #fff;
+}
+
+.header4{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    width: 575px;
+    height: 50px;
+    border:5px solid #fff;
+}
+
+.nav2{
+    margin: 15px;
+    margin-top: 30px;
+    background: rgb(255, 255, 255);
+    height: 350px;
+    border:5px solid #000000;
+}
+
+.footer2{
+    margin: 15px;
+    margin-top: 625px;
+    background: rgb(255, 255, 255);
+    border:5px solid #000000;
+    text-align: center;
+}
