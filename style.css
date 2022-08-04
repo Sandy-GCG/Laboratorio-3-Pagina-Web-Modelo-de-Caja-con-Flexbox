@@ -1,0 +1,132 @@
+body{
+    background: rgb(147, 59, 156);
+    overflow: auto;
+}
+
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+header{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    width: 1465px;
+    height: 160px;
+    border:5px solid #fff;
+}
+
+.nav1{
+    margin:15px;
+    margin-top: 35px;
+    background: #fff;
+    border:5px solid #000000;
+}
+
+.left{
+    margin: 15px;
+    margin-top: 35px;
+    background: rgb(206, 72, 72);
+    width: 800px;
+    height: 530px;
+    float: left;
+    display: block;
+    border:5px solid #fff;
+}
+
+.right{
+    margin: 15px;
+    margin-top: 35px;
+    background: rgb(206, 72, 72);
+    width: 620px;
+    height: 530px;
+    float: right;
+    border:5px solid #fff;
+}
+
+.headersection1{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    width: 755px;
+    height: 50px;
+}
+
+article{
+    margin: 15px;
+    margin-top: 30px;
+    background: rgb(74, 195, 232);
+    height: 350px;
+    border:5px solid #fff;
+}
+
+.headerarticle1{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    width: 720px;
+    height: 50px;
+    border:5px solid #fff;
+}
+
+.para1{
+    margin: 15px;
+    margin-top: -12px;
+    background: rgb(230, 137, 79);
+    width: 720px;
+    height: 50px;
+    border:5px solid #fff;
+}
+
+.para2{
+    margin: 15px;
+    margin-top: -5px;
+    background: rgb(230, 137, 79);
+    width: 400px;
+    height: 50px;
+    float: left;
+    border:5px solid #fff;
+}
+
+.aside1{
+    margin: 15px;
+    margin-top: -5px;
+    background: rgb(255, 255, 255);
+    width: 280px;
+    height: 50px;
+    float: right;
+    border:5px solid #000000;
+    text-align: center;
+}
+
+.footer1{
+    margin: 15px;
+    margin-top: 90px;
+    background: rgb(255, 255, 255);
+    width: 720px;
+    height: 50px;
+    border:5px solid #000000;
+    text-align: center;
+}
+
+.headersection2{
+    margin: 15px;
+    background: rgb(97, 167, 69);
+    width: 575px;
+    height: 50px;
+}
+
+.external{
+    margin: 15px;
+    margin-top: 650px;
+    background: rgb(255, 255, 255);
+    border:5px solid #000000;
+    text-align: center;
+}
+
+.nav2{
+    margin: 15px;
+    margin-top: 30px;
+    background: rgb(255, 255, 255);
+    height: 350px;
+    border:5px solid #000000;
+}
